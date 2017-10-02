@@ -1,9 +1,9 @@
 # Índice
 1. [¿Qué contiene la Guia del usuario?](#que_contiene_la_guia_del_usuario)
 2. [Comenzando](#comenzando)
-..1. [Ingresando a SuiteCRM](#ingresando_a_suitecrm)
-..2. [Recuperar contraseña](#recuperar_contraseña)
-..3. [Resumen](#resumen)
+  1. [Ingresando a SuiteCRM](#ingresando_a_suitecrm)
+  2. [Recuperar contraseña](#recuperar_contraseña)
+  3. [Resumen](#resumen)
 
 
 # ¿Qué contiene la Guia del usuario?

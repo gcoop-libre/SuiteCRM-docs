@@ -4,7 +4,16 @@
     1. [Ingresando a SuiteCRM](#ingresando-a-suitecrm)
     2. [Recuperar contraseña](#recuperar-contraseña)
     3. [Resumen](#resumen)
-
+3. [Asistente de usuario](#asistente-de-usuario)
+    1. [Bienvenido a SuiteCRM](#bienvenido-a-suitecrm)
+	2. [Su información](#su-información)
+	3. [Su localización](#su-localización)
+	4. [Selección de la moneda](#selección-de-la-moneda)
+	5. [Formato de fecha](#formato-de-fecha)
+	6. [Zona horaria](#zona-horaria)
+	7. [Formato de nombre](#formato-de-nombre)
+	8. [Último paso](#último-paso)
+	9. [Resumen](#resumen-1)
 
 # ¿Qué contiene la Guia del usuario?
 

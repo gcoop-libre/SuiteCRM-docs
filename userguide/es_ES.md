@@ -7,10 +7,10 @@ La Guía del usuario de SuiteCRM se divide en varios capítulos. Estos capítulo
 Los lectores de la Guía del usuario de SuiteCRM no necesitan tener conocimientos de desarrollo o conocimientos previos de SuiteCRM. Se aconseja que esté informado en la informática, que esté familiarizado con el uso del navegador web elegido y que ya se haya instalado y configurado SuiteCRM.
 
 
-# ComenzandoGetting Started
+# Comenzando
 ## Ingresando a SuiteCRM
 
 SuiteCRM permite a los usuarios iniciar sesión con su nombre de usuario y contraseña, proporcionados por el administrador del sistema.
 
 
-![alt text](images/login.png "Login")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login.png "Login")

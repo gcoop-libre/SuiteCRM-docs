@@ -14,6 +14,14 @@
 	7. [Formato de nombre](#formato-de-nombre)
 	8. [Último paso](#Último-paso)
 	9. [Resumen](#resumen-1)
+4. [Gestión de la cuenta de usuario](#gestión-de-la-cuenta-de-usuario)
+    1. [Pestaña perfil de usuario](#pestaña-perfil-de-usuario)
+    2. [Pestaña contraseña](#pestaña-contraseña)
+    3. [Pestaña Avanzado](#pestaña-avanzado)
+    4. [Restablecer preferencias de usuario](#restablecer-preferencias-de-usuario)
+    5. [Restablecimiento de la página principal de un usuario](#restablecimiento-de-la-página-principal-de-un-usuario)
+    6. [Resumen](#resumen-2)
+
 
 # ¿Qué contiene la Guia del usuario?
 

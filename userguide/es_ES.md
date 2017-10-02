@@ -14,3 +14,14 @@ SuiteCRM permite a los usuarios iniciar sesión con su nombre de usuario y contr
 
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login.png "Login")
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login_lang.png "Seleccione el idioma")
+
+
+Antes de iniciar sesión en SuiteCRM, puede seleccionar el idioma que desee utilizar. Existen muchos idiomas predeterminados para SuiteCRM y también hay paquetes de idiomas adicionales disponibles.
+
+Una vez que haya elegido su idioma y haya introducido sus credenciales de usuario, podrá hacer clic en el botón Iniciar sesión para acceder al CRM.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login_user.png "Introduzca su usuario y contraseña")

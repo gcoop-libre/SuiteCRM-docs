@@ -12,7 +12,7 @@
 	5. [Formato de fecha](#formato-de-fecha)
 	6. [Zona horaria](#zona-horaria)
 	7. [Formato de nombre](#formato-de-nombre)
-	8. [Último paso](#último-paso)
+	8. [Último paso](#Último-paso)
 	9. [Resumen](#resumen-1)
 
 # ¿Qué contiene la Guia del usuario?
@@ -24,7 +24,7 @@ La Guía del usuario de SuiteCRM se divide en varios capítulos. Estos capítulo
 Los lectores de la Guía del usuario de SuiteCRM no necesitan tener conocimientos de desarrollo o conocimientos previos de SuiteCRM. Se aconseja que esté informado en la informática, que esté familiarizado con el uso del navegador web elegido y que ya se haya instalado y configurado SuiteCRM.
 
 
-# Comenzando
+# Introducción
 ## Ingresando a SuiteCRM
 
 SuiteCRM permite a los usuarios iniciar sesión con su nombre de usuario y contraseña, proporcionados por el administrador del sistema.
@@ -140,3 +140,64 @@ Al hacer clic en 'Finalizar' se completará el Asistente para usuarios y se le p
 En este capítulo, avanzamos a través del Asistente para usuarios. Esto le permite configurar sus preferencias cuando utilice SuiteCRM.
 
 En el siguiente capítulo, cubriremos la administración de cuentas de usuario, que discutirán cómo actualizar detalles de usuario, seleccionar temas, cambiar contraseñas y más.
+
+
+# Gestión de la cuenta de usuario
+
+Hay muchas opciones de configuración disponibles para los usuarios una vez que hayan ingresado al sistema. Puede ver y/0 modificar sus preferencias haciendo clic en la opción "Perfil" que se despliega al posicionar el puntero del mouse sobre el ícono de usuario en la parte superior derecha de la pantalla.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_1.png "Usuario")
+
+
+## Pestaña perfil de usuario
+
+Una vez que haya hecho clic para acceder a sus preferencias, se le llevará a la pestaña "Perfil de usuario" que le ofrece una descripción general de sus credenciales, como nombre de usuario, nombre, apellido, título, etc.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_2.png "Perfil de Usuario")
+
+
+## Pestaña contraseña
+
+Al hacer clic en la pestaña "Contraseña", podrá cambiar la contraseña de su cuenta de usuario. Para cambiar su contraseña, especifique una nueva y confirme la misma. Se recomienda que las contraseñas sean seguras. El requisito mínimo recomendado es un carácter en mayúsculas, un carácter en minúscula, un carácter numérico y una longitud mínima de 8 caracteres.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_3.png "Contraseña")
+
+Si ha olvidado su contraseña y no puede iniciar sesión, puede utilizar la función de contraseña olvidada detallada en la sección Introducción de esta Guía del usuario.
+
+
+## Pestaña Avanzado
+
+La pestaña Avanzado le proporciona las preferencias que ha definido durante el proceso Asistente de usuario. Esto le da la posibilidad de cambiar cualquiera de sus preferencias de usuario, si hubo algún error o si necesita modificarlos en una fecha posterior.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_4.png "Avanzado")
+
+
+## Restablecer preferencias de usuario
+
+Puede restablecer sus preferencias de usuario a la configuración predeterminada del sistema haciendo clic en el botón "Restablecer preferencias de usuario" de su perfil.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_5.png "Restablecer preferencias de usuario")
+
+
+Al hacer clic en el botón le solicitará que confirme que desea restablecer sus preferencias de usuario, con el siguiente mensaje: "¿Está seguro de que desea restablecer todas sus preferencias? Advertencia: Su sesión actual será finalizada.". Puede hacer clic en 'Aceptar' o 'Cancelar' para actuar apropiadamente. Si selecciona "Aceptar", se cerrará sesión y tendrá que volver a iniciar sesión en la aplicación de SuiteCRM.
+
+
+## Restablecimiento de la página principal de un usuario
+
+Puede restablecer su página de inicio a la configuración predeterminada del sistema haciendo clic en el botón "Restablecer página de inicio" de su perfil. Esto restablecerá las preferencias / diseños de dashlet y dashboard a las predeterminadas del sistema.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/usuario_6.png "Restablecer página de inicio")
+
+
+Al hacer clic en el botón le solicitará que confirme que desea restablecer su página de inicio con el siguiente mensaje: "¿Está seguro de que desea reiniciar su Página de Inicio?". puede hacer clic en 'Aceptar' o 'Cancelar' para actuar apropiadamente.
+
+## Resumen
+
+En este capítulo, cubrimos la administración de una cuenta de usuario. Esto le permite administrar su información, modificar / restablecer las preferencias del usuario y más.
+
+En el próximo capítulo, cubriremos la Interfaz. La Interfaz es una parte integral de SuiteCRM. Con el conocimiento de su Interfaz, puede progresar hasta aprender más sobre la funcionalidad y los procesos de SuiteCRM.

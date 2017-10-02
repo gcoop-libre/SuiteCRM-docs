@@ -25,3 +25,19 @@ Una vez que haya elegido su idioma y haya introducido sus credenciales de usuari
 
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login_user.png "Introduzca su usuario y contraseña")
+
+
+
+## Recuperar contraseña
+
+Si olvidó su contraseña de ingreso a SuiteCRM y no puede acceder a su cuenta, puede utilizar la función de recuperación de contraseña para que el sistema le envíe la misma a la dirección de correo electrónico asociada a su cuenta de usuario. Haciendo clic en '¿Ha olvidado su contraseña?'.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/login_recuperar_pass.png "Recuperar contraseña")
+
+
+## Resumen
+
+En este capítulo hemos visto cómo acceder a SuiteCRM utilizando el formulario de inicio de sesión. También hemos explicado cómo recuperar una contraseña de usuario en caso de que se pierda u olvide la misma.
+
+
+En el siguiente capítulo cubriremos el Asistente para usuarios, que le permite establecer sus preferencias cuando utilice SuiteCRM.

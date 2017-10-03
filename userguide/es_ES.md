@@ -22,6 +22,12 @@
     5. [Restablecimiento de la página principal de un usuario](#restablecimiento-de-la-página-principal-de-un-usuario)
     6. [Resumen](#resumen-2)
 5. 	[Interfaz de usuario](#interfaz-de-usuario)
+    1. [Elementos de navegación](#elementos-de-navegación)
+	   1. [Menú de navegación superior](#menú-de-navegación-superior)
+	   2. [Creación rápida](#creación-rápida)
+	   3. [Barra lateral](#barra-lateral)
+	      1. [Acciones](#acciones)
+		  2. [Recientes](#recientes)
 
 
 

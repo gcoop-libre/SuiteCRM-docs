@@ -21,6 +21,8 @@
     4. [Restablecer preferencias de usuario](#restablecer-preferencias-de-usuario)
     5. [Restablecimiento de la página principal de un usuario](#restablecimiento-de-la-página-principal-de-un-usuario)
     6. [Resumen](#resumen-2)
+5. 	[Interfaz de usuario](#interfaz-de-usuario)
+
 
 
 # ¿Qué contiene la Guia del usuario?
@@ -209,3 +211,82 @@ Al hacer clic en el botón le solicitará que confirme que desea restablecer su 
 En este capítulo, cubrimos la administración de una cuenta de usuario. Esto le permite administrar su información, modificar / restablecer las preferencias del usuario y más.
 
 En el próximo capítulo, cubriremos la Interfaz. La Interfaz es una parte integral de SuiteCRM. Con el conocimiento de su Interfaz, puede progresar hasta aprender más sobre la funcionalidad y los procesos de SuiteCRM.
+
+
+# Interfaz de usuario
+
+Antes de avanzar en la comprensión de la estructura y funcionalidad de SuiteCRM, cubriremos las áreas de la Interfaz de usuario para que conozca la terminología utilizada al describir la navegación de SuiteCRM. Hay muchos elementos en la Interfaz de usuario, por lo que los hemos dividido en varias secciones a continuación.
+
+
+## Elementos de navegación
+
+La capacidad de ver y navegar fácilmente las áreas del CRM es clave para mejorar la productividad y la adopción por parte de los usuarios. SuiteCRM tiene una interfaz de usuario clara que tiene varios elementos que cubriremos en esta sección.
+
+
+### Menú de navegación superior
+
+El menú de navegación superior es el principal que los usuarios usarán para navegar los módulos del CRM para crear y administrar registros. Todos los módulos del CRM están agrupados en seis diferentes categorías, las cuales pueden ser configuradas por el Administrador del sistema en: Administrador → Configurar agrupación de módulos.
+
+Como dijimos, el menú de navegación superior tiene seis elementos. Estos son:
+
+1. **Home:** este ícono nos permite volver a la Home Page de SuiteCRM desde cualquier lugar.
+2. **Categorías:** Estas categorías agrupan los diferentes módulos de SuiteCRM.
+3. **Creación rápida:** Esta opción permite la creación rápida de registros de módulos clave dentro de SuiteCRM.
+4. **Búsqueda global:** Permite a los usuarios buscar en SuiteCRM globalmente diferentes registros y/o datos.
+5. **Notificacione:** Muestra el número de notificaciones de escritorio que el usuario aún no ha leído. Éstas pueden ser manejadas por el usuario. Para obtener más información sobre las notificaciones de escritorio, consulte la sección Notificaciones de escritorio de esta guía del usuario.
+6. **Menú usuario:** Menú desplegable que permite a los usuarios acceder a los empleados, su perfil, la página acerca de y un enlace para cerrar la sesión.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_1.png "Menú superior")
+
+
+Para acceder a un módulo, puede hacer clic en la categoría que lo engloba y luego seleccionar el módulo desesado.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_2.png "Menú Ventas")
+
+Esto le llevará a la **Vista de Lista** de ese módulo, como la que vemos a continuación. (Para obtener información detallada sobre las vistas, lea la sección Vistas de esta guía del usuario.)
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/listview_accounts.png "Listado de cuentas")
+
+Al pasar el mouse sobre un nombre de módulo producirá un menú desplegable. Este menú desplegable muestra las **acciones** y los **registros** recientemente vistos para ese módulo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_3.png "Menú Cuentas")
+
+
+Puede editar los registros mostrados en la sección **Recientes** del menú desplegable haciendo clic en el icono de lápiz. Esto le dirigirá a la vista de edición para ese registro.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_4.png "Menú Cuentas Editar")
+
+
+También hay una estructura de navegación donde, en vez de mostrar pestañas que agrupan módulos, se muestran todos los módulos disponibles. Los usuarios pueden establecer esta opción en sus preferencias de usuario. Para obtener detalles completos sobre cómo modificar las preferencias del usuario, consulte la sección Administración de cuentas de usuario de esta guía del usuario.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_5.png "Menú no agrupado")
+
+
+### Creación rápida
+
+Puede hacer clic en el menú desplegable 'Crear' del menú de navegación superior para acceder a las opciones de creación rápida. Esta es una lista de módulos de uso común con la capacidad de crear nuevos registros dentro de estos módulos desde cualquier ubicación.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_5.png "Creación rápida")
+
+
+### Barra lateral
+
+La barra lateral es parte del Theme adaptable de SuiteCRM y es una opción configurable por el usuario. La barra lateral se puede expandir y contraer haciendo clic en el botón resaltado a continuación.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_6.png "Barra lateral")
+
+
+
+#### Acciones
+
+Esto muestra las acciones para el módulo que está viendo actualmente. Por ejemplo, si está viendo el módulo Cuentas, las acciones que se muestran son: Crear cuenta, Ver cuentas, Importar cuentas. Esto le proporciona acceso con un solo clic a las acciones del módulo.
+
+#### Recientes
+
+Esta sección muestra los últimos 10 registros que ha visto. Esto deja un **rastro de migas de pan*** por lo que los registros vistos anteriormente se puede acceder rápida y fácilmente a través de la barra lateral. También existe la opción de hacer clic en el icono de lápiz, que lo llevará directamente a la vista Editar del registro.
+
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_7.png "Aciones de la barra lateral")

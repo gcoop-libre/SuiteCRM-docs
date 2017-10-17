@@ -28,6 +28,8 @@
 	   3. [Barra lateral](#barra-lateral)
 	      1. [Acciones](#acciones)
 		  2. [Recientes](#recientes)
+	2. [Página de inicio](#página-de-inicio)
+	   1. [Dashlets](#dashlets)
 
 
 

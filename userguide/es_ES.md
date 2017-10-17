@@ -295,4 +295,17 @@ Esto muestra las acciones para el módulo que está viendo actualmente. Por ejem
 Esta sección muestra los últimos 10 registros que ha visto. Esto deja un **rastro de migas de pan*** por lo que los registros vistos anteriormente se puede acceder rápida y fácilmente a través de la barra lateral. También existe la opción de hacer clic en el icono de lápiz, que lo llevará directamente a la vista Editar del registro.
 
 
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_7.png "Aciones de la barra lateral")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_7.png "Acciones de la barra lateral")
+
+
+## Página de Inicio
+
+La página de inicio es la primera página que se muestra luego de autenticarte. La misma posee varios elementos que pueden ser utilizados y configurados como los Dashlets, Dashboards y la Barra Lateral.
+
+### Dashlets
+
+Los Dashlets son secciones configurables por el usuario que se muestran en la página de inicio con el fin de brindar una vista rápida de tus registros y actividades inmediatamente luego del login. Esto es particularmente útil para equipos de ventas y soporte ya que reduce la cantidad de clicks requerida para ver y modificar información.
+
+Los dashlets pueden ser arrastrados y soltados dentro de la página de inicio. Puedes agregar dashlets cliqueando el enlace de 'Agregar Dashlets' en la página de inicio.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_8.png "Agregar Dashlets")

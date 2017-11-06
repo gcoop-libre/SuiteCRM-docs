@@ -342,8 +342,8 @@ Al cliquear en el link de "Agregar Pestaña" en la página de inicio se abrirá 
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/tab_adding.png "Agregando una pestaña")
 
-Una vez especificados los detalles para la pestaña del Dashbord, puedes cliquear en "Guardar". O bien, puedes cliquear en "Cancelar" para deshacer los cambios. Una vez guardados los cambios, la pestaña del Dashboard será agregada y se mostrará en la lista de pestañas de la página de inicio. Ya puedes entonces agregar Dashlets a tu nueva pestaña de Dashboard.
+Una vez especificados los detalles para la pestaña de Dashbord, puedes cliquear en "Guardar". O bien, puedes cliquear en "Cancelar" para deshacer los cambios. Una vez guardados los cambios, la pestaña del Dashboard será agregada y se mostrará en la lista de pestañas de la página de inicio. Ya puedes entonces agregar Dashlets a tu nueva pestaña de Dashboard.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/tab_added.png "Pestaña añadida")
 
-Si deseas eliminar la pestaña de Dashboard, puedes hacerlo desde la opción Editar Pestañas, cliqueando sobre el ícono '-'. Esto removerá la pestaña de dashboard de tu perfil únicamente. Nota: El cuadro de mando de Suite CRM es la pestaña de Dashboard estándar, la cual no puede eliminarse. Sin embargo puedes configurar los dashlets que se mostrarán en dicha pestaña.
+Si deseas eliminar la pestaña de Dashboard, puedes hacerlo desde la opción Editar Pestañas, cliqueando sobre el ícono '-'. Esto removerá la pestaña de Dashboard de tu perfil únicamente. Nota: El cuadro de mando de Suite CRM es la pestaña de Dashboard estándar, la cual no puede eliminarse. Sin embargo puedes configurar los dashlets que se mostrarán en dicha pestaña.

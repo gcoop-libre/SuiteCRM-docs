@@ -331,3 +331,19 @@ Al cliquear sobre el ícono del lápiz se mostrará una ventana emergente. Esta 
 Una vez realizados los cambios deseados en la ventana emergente de configuración del dashlet, puedes cliquear "Guardar" para aplicar los cambios, o cancelar si deseas descartar los cambios.
 
 Nota: algunos dashlets pueden requerir un refresco de la página de inicio para implementar la nueva configuración. En ese caso se te notificará al guardar los cambios.
+
+### Dashboards (Tableros)
+
+Los Dashboards son nuevos en SuiteCRM. Los mismos son configurables por usuario y pueden ser añadidos o removidos al igual que los dashlets. Para agregar una pestaña de Dashboard, puedes cliquear en el link de "Agregar Pestaña" en la página de inicio.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/add_tab.png "Agregar pestaña")
+
+Al cliquear en el link de "Agregar Pestaña" en la página de inicio se abrirá la ventana emergente de Agregar pestaña, la cual permite a los usuarios especificar un nombre para la pestaña y además indicar cuántas columnas para dashlets serán requeridas. Pueden configurarse entre una, dos o tres columnas.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/tab_adding.png "Agregando una pestaña")
+
+Una vez especificados los detalles para la pestaña del Dashbord, puedes cliquear en "Guardar". O bien, puedes cliquear en "Cancelar" para deshacer los cambios. Una vez guardados los cambios, la pestaña del Dashboard será agregada y se mostrará en la lista de pestañas de la página de inicio. Ya puedes entonces agregar Dashlets a tu nueva pestaña de Dashboard.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/tab_added.png "Pestaña añadida")
+
+Si deseas eliminar la pestaña de Dashboard, puedes hacerlo desde la opción Editar Pestañas, cliqueando sobre el ícono '-'. Esto removerá la pestaña de dashboard de tu perfil únicamente. Nota: El cuadro de mando de Suite CRM es la pestaña de Dashboard estándar, la cual no puede eliminarse. Sin embargo puedes configurar los dashlets que se mostrarán en dicha pestaña.

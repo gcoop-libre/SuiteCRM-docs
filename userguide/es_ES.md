@@ -311,3 +311,13 @@ Los Dashlets son secciones configurables por el usuario que se muestran en la p�
 Los dashlets pueden ser arrastrados y soltados dentro de la página de inicio. Puedes agregar dashlets cliqueando el enlace de 'Agregar Dashlets' en la página de inicio.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/menu_8.png "Agregar Dashlets")
+
+Al cliquear en el enlace de 'Agregar Dashlets' en la página de inicio se abrirá el popup de Agregar Dashlets que permite a los usuarios seleccionar entre varios dashlets preconfigurados.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/modal_add_dashlets.png "Modal para Agregar Dashlets")
+
+Para agregar uno de los dashlets, simplemente cliquea en el link del dashlet. Esto agregará el dashlet a la página de inicio del usuario. El popup no se cerrará, ya que permite agregar multiples dashlets en la misma acción. Una vez que agregues los dashlets deseados, puedes cerrar el popup.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_dashlets.png "Editar un Dashlet")
+
+Puedes modificar los dashlets cliqueando en el ícono del lápiz sobre el dashlet deseado.

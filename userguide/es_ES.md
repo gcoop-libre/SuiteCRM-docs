@@ -323,3 +323,11 @@ Para agregar uno de los dashlets, simplemente cliquea en el link del dashlet. Es
 Puedes modificar los dashlets cliqueando en el ícono del lápiz sobre el dashlet deseado.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_dashlet.png "Editar un Dashlet")
+
+Al cliquear sobre el ícono del lápiz se mostrará una ventana emergente. Esta ventana contendrá todas las opciones de configuración para el dashlet.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/dashlet_editing.png "Editando un Dashlet")
+
+Una vez realizados los cambios deseados en la ventana emergente de configuración del dashlet, puedes cliquear "Guardar" para aplicar los cambios, o cancelar si deseas descartar los cambios.
+
+Nota: algunos dashlets pueden requerir un refresco de la página de inicio para implementar la nueva configuración. En ese caso se te notificará al guardar los cambios.

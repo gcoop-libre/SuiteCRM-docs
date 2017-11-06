@@ -347,3 +347,19 @@ Una vez especificados los detalles para la pestaña de Dashbord, puedes cliquear
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/tab_added.png "Pestaña añadida")
 
 Si deseas eliminar la pestaña de Dashboard, puedes hacerlo desde la opción Editar Pestañas, cliqueando sobre el ícono '-'. Esto removerá la pestaña de Dashboard de tu perfil únicamente. Nota: El cuadro de mando de Suite CRM es la pestaña de Dashboard estándar, la cual no puede eliminarse. Sin embargo puedes configurar los dashlets que se mostrarán en dicha pestaña.
+
+### Flujo de Actividad
+
+El Flujo de Actividad es una excelente forma de mantener el seguimiento de las interacciones de tus colegas con SuiteCRM. Por default el Flujo de Actividad muestra novedades recientes para las Oportunidades, Contactos, Potenciales Clientes y Casos. El feed deL Facebook y Twitter de tu organización también puede incluirse en el dashlet del Flujo de Actividades si lo deseas y esto puede ser configurado por el usuario Administrador.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/activity_stream.png "Flujo de Actividad")
+
+También puedes realizar comentarios sobre una novedad dentro del Flujo de Actividad cliqueando en el botón Responder a la derecha de cada entrada.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/reply_activity_stream.png "Responder a una entrada")
+
+Además, tus entradas pueden ser eliminadas del Flujo de Actividad cliqueando en el botón Eliminar.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/delete_activity_stream.png "Eliminar una entrada")
+
+<!-- ME QUEDE ACA Your colleagues will see this message and will be able to respond by clicking on the Reply button on the right side of the post.  -->

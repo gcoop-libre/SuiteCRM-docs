@@ -318,6 +318,8 @@ Al cliquear en el enlace de 'Agregar Dashlets' en la página de inicio se abrir�
 
 Para agregar uno de los dashlets, simplemente cliquea en el link del dashlet. Esto agregará el dashlet a la página de inicio del usuario. El popup no se cerrará, ya que permite agregar multiples dashlets en la misma acción. Una vez que agregues los dashlets deseados, puedes cerrar el popup.
 
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_dashlets.png "Editar un Dashlet")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/dashlet_added.png "Dashlet Agregado")
 
 Puedes modificar los dashlets cliqueando en el ícono del lápiz sobre el dashlet deseado.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_dashlet.png "Editar un Dashlet")

@@ -29,7 +29,10 @@
 	      1. [Acciones](#acciones)
 		  2. [Recientes](#recientes)
 	2. [Página de inicio](#página-de-inicio)
-	   1. [Dashlets](#dashlets)
+		1. [Dashlets](#dashlets)
+		2. [Dashboards](#dashboards)
+		3. [Flujo de Actividad](#flujo-de-actividad)
+
 
 
 

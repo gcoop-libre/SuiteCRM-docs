@@ -32,7 +32,10 @@
 		1. [Dashlets](#dashlets)
 		2. [Dashboards](#dashboards)
 		3. [Flujo de Actividad](#flujo-de-actividad)
-
+	3. [Búsqueda](#búsqueda)
+		1. [Búsqueda Global](#búsqueda-global)
+		2. [Búsqueda de Texto Completo](#búsqueda-de-texto-completo)
+		3. [Búsqueda Básica de Módulo](#búsqueda-básica-de-módulo)
 
 
 
@@ -380,3 +383,48 @@ Tus colegas verán este mensaje y tendrán la posibilidad de responderlo cliquea
 Su respuesta aparecerá debajo de tu entrada, otra vez con una marca de tiempo.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/replied_activity_stream.png "Entrada con respuesta")
+
+
+## Búsqueda
+
+La búsqueda es un aspecto vital dentro del CRM ya que esta permite rápidamente definir qué es lo que quieres ver. Muchos CRMs tendrán grandes sets de datos por lo que es vital que tengas una forma de refinar tu búsuqeda. En las siguientes sub-secciones cubriremos las diversas opciones de búsqueda disponibles.
+
+### Búsqueda Global
+
+Puedes buscar entre todos los registros dentro del CRM utilizando la búsqueda global, a través de la barra de búsqueda en el menu de navegación principal.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/global_search.png "Búsqueda global")
+
+Una vez ingresado tu término para la búsqueda, puedes presionar la tecla Enter o cliquear en el ícono de la lupa. Esto retornará los registros que coincidan con el criterio de búsqueda y categorizara los mismos según los módulos disponibles.
+
+Los módulos pueden ser incluídos dentro de la búsqueda global por el Administrador del Sistema.
+
+### Búsqueda de Texto Completo
+
+SuiteCRM tiene la opción de habilitar y deshabilitar la búsqueda de texto completo. La búsqueda de texto completo usa el motor del framework de búsqueda [Zend Lucene](https://framework.zend.com/manual/1.12/en/zend.search.lucene.overview.html). La búsqueda funciona de forma muy similar a la búsqueda global estándar, excepto porque provee la funcionalidad de buscar texto en documentos y otros archivos.
+
+Nota: el Administrador del Sistema puede habilitar y deshabilitar la búsqueda de texto completo cliqueando en el link para la configuración de AOD dentro del panel de administración.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/aod_settings.png "Settings AOD")
+
+Esto mostrará la opción de AOD para habilitar o deshabilitar la búsqueda de texto completo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/aod_enable.png "Enable AOD")
+
+La búsqueda retorna los resultados de forma sutilmente distinta a la búsqueda global. Los mismos son retornados en orden de puntaje. Los registros son puntuados dependiendo de qué tan bien satisfacen el criterio de búsqueda proveído - desde 0 a 100%.
+
+### Búsqueda Básica de Módulo
+
+La búsqeda básica está disponible en todos los modulos dentro del CRM. La búsuqeda básica, de forma estándar, permite a los usuarios buscar por los nombres de los registros.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/basic_module_search.png "Basic Module Search")
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/basic_module_search_window.png "Basic Module Search Window")
+
+La búsqueda básica además permite a los usuarios marcar la opción "Mis elementos". Marcar esta opción hará que en la búsqueda solo se retornen los registros que estén asignados a tí.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/basic_module_search_my_items.png "Search my items")
+
+Una vez que el usuario ha realizado una búsqueda, la misma será guardada. Eso significa que podrás navegar por otros registros y módulos, pero la búsqueda no será descartada. Si deseas descartar tu búsqueda, puedes cliquear en el botón "Limpiar" y luego en "Filtro". Esto descartará lás búsquedas guardadas y retornará el set de datos por defecto para ese módulo.
+
+Nota: El Administrador del Sistema puede modificar dentro de Studio cuales campos se habilitan para la búsqueda en la Búsqueda Básica.

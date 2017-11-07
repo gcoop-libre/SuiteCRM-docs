@@ -365,4 +365,18 @@ Además, tus entradas pueden ser eliminadas del Flujo de Actividad cliqueando en
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/delete_activity_stream.png "Eliminar una entrada")
 
-<!-- ME QUEDE ACA Your colleagues will see this message and will be able to respond by clicking on the Reply button on the right side of the post.  -->
+Tu comentario aparecera debajo de la entrada original y también tendrá su marca de tiempo.
+
+El Flujo de Actividad es también una herramienta útil para la comunicación interna de tu organización, es posible enviar un mensaje que será emitido hacia todos los usuarios en tu red. Para esto ingresa tu mensaje en el campo de texto y luego haz click en Enviar.
+
+The Activity Stream is also a useful tool for internal messaging within your organisation, it is possible to send a message that will be broadcast to all users in your network. To do this type your message in the text field and click post.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/post_activity_stream.png "Enviar una entrada")
+
+Tus colegas verán este mensaje y tendrán la posibilidad de responderlo cliqueando en el botón Responde a la derecha de la entrada.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/reply_my_activity_stream.png "Responder a una entrada")
+
+Su respuesta aparecerá debajo de tu entrada, otra vez con una marca de tiempo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/replied_activity_stream.png "Entrada con respuesta")

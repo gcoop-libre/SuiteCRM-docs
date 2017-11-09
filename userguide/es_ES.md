@@ -428,3 +428,27 @@ La búsqueda básica además permite a los usuarios marcar la opción "Mis eleme
 Una vez que el usuario ha realizado una búsqueda, la misma será guardada. Eso significa que podrás navegar por otros registros y módulos, pero la búsqueda no será descartada. Si deseas descartar tu búsqueda, puedes cliquear en el botón "Limpiar" y luego en "Filtro". Esto descartará lás búsquedas guardadas y retornará el set de datos por defecto para ese módulo.
 
 Nota: El Administrador del Sistema puede modificar dentro de Studio cuales campos se habilitan para la búsqueda en la Búsqueda Básica.
+
+Puedes agregar más columnas a la sección de resultados de búsqueda mediante la opción "Elegir columnas" situada a la derecha del filtro de búsqueda.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/layout_list_view.png "Botón de elegir columnas")
+
+Puedes arrastrar los campos de arriba hacia abajo para mostrarlos o dejarlos ocultos.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/layout_list_view_window.png "Elegir columnas")
+
+### Búsqueda Avanzada de Módulo
+
+La búsqueda avanzada está disponible en todos los módulos dentro del CRM. La misma provee una funcionalidad de búsqueda de módulo con mayor nivel de detalle. De forma estándar, hay más campos disponibles para el usuario a través de la búsqueda avanzada.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/advanced_module_search.png "Search my items")
+
+Las búsquedas avanzadas pueden tener varios campos y criterios específicos. Por esta razon, puedes guardar tus criterios de búsqueda avanzada para reutilizarlos rápidamente en el futuro.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/save_advanced_filter.png "Save my filter")
+
+Para cargar una búsqueda guardada, puedes seleccionarla desde el desplegable "Mis Filtros". Esto retornará los resultados que coincidan con los criterios especificados en la búsqueda guardada.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/load_advanced_filter.png "Load my filter")
+
+Nota: el Administrador del Sistema puede modificar utilizando Studio qué campos se habilitarán para la Búsqueda Avanzada.

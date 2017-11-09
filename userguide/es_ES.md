@@ -463,9 +463,9 @@ Nota: el Administrador del Sistema puede modificar utilizando Studio qué campos
 
 Dentro del CRM se te presentarán varias vistas. Las mismas están estructuradas para presentarte información clave a través del proceso de gestión de registros. Existen tres vistas principales:
 
-    Vista de Lista
-    Vista de Detalle
-    Vista de Edición
+* Vista de Lista
+* Vista de Detalle
+* Vista de Edición
 
 Todas estas tienen propósitos específicos que son descriptos en las subsiguientes secciones.
 
@@ -477,13 +477,13 @@ Esta es la vista que se presenta cuando navegas a cualquier módulo.
 
 La Vista de Lista se encarga de varias acciones que puedes llevar a cabo para manipular registros. Estas son:
 
-    Buscar Registros – provee la posibilidad de realizar búsquedas básicas y avanzadas (ver sección sobre Búsqueda en este capítulo)
-    Ordenar Registros – cliquear en el nombre de una columna ordenará la lista de registros según esta columna en forma ascendente o descendente, si el ordenamiento está habilitado.
-	Ver Registros – cliquear en cualquier dato que posea un hiperenlace te llevará a la Vista de Detalle del registro.
-    Editar Registros – cliquear en el ícono del lápiz te llevará a la Vista de Edición del registro.
-    Eliminar Registros – puedes seleccionar registros y luego seleccionar la opción de Eliminar para eliminar registros del módulo.
-    Actualización Masiva de Registros – puedes seleccionar registros y luego seleccionar la opción de Actualización Masiva para actualizar información en todos los registros seleccionados.
-	Combinar Registros – puedes seleccionar registros y seleccionar la opción de combinarlos. Esto dará inicio a los procesos de combinado de registros. Puedes seleccionar un registro como primario y luego combinar la información de los registros duplicados en el registro primario. Una vez guardados los cambios, los registros duplicados serán eliminados y toda la información e historial de estos será combinado en el registro primario.
+* Buscar Registros – provee la posibilidad de realizar búsquedas básicas y avanzadas (ver sección sobre Búsqueda en este capítulo)
+* Ordenar Registros – cliquear en el nombre de una columna ordenará la lista de registros según esta columna en forma ascendente o descendente, si el ordenamiento está habilitado.
+* Ver Registros – cliquear en cualquier dato que posea un hiperenlace te llevará a la Vista de Detalle del registro.
+* Editar Registros – cliquear en el ícono del lápiz te llevará a la Vista de Edición del registro.
+* Eliminar Registros – puedes seleccionar registros y luego seleccionar la opción de Eliminar para eliminar registros del módulo.
+* Actualización Masiva de Registros – puedes seleccionar registros y luego seleccionar la opción de Actualización Masiva para actualizar información en todos los registros seleccionados.
+* Combinar Registros – puedes seleccionar registros y seleccionar la opción de combinarlos. Esto dará inicio a los procesos de combinado de registros. Puedes seleccionar un registro como primario y luego combinar la información de los registros duplicados en el registro primario. Una vez guardados los cambios, los registros duplicados serán eliminados y toda la información e historial de estos será combinado en el registro primario.
 
 ### Vista de Detalle
 

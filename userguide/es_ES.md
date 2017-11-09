@@ -36,6 +36,12 @@
 		1. [Búsqueda Global](#búsqueda-global)
 		2. [Búsqueda de Texto Completo](#búsqueda-de-texto-completo)
 		3. [Búsqueda Básica de Módulo](#búsqueda-básica-de-módulo)
+		4. [Búsqueda Avanzada de Módulo](#búsqueda-avanzada-de-módulo)
+	4. [Vistas](#vistas)
+		1. [Vista de Lista](#vista-de-lista)
+		2. [Vista de Detalle](#vista-de-detalle)
+		3. [Vista de Edición](#vista-de-edición)
+
 
 
 
@@ -441,14 +447,44 @@ Puedes arrastrar los campos de arriba hacia abajo para mostrarlos o dejarlos ocu
 
 La búsqueda avanzada está disponible en todos los módulos dentro del CRM. La misma provee una funcionalidad de búsqueda de módulo con mayor nivel de detalle. De forma estándar, hay más campos disponibles para el usuario a través de la búsqueda avanzada.
 
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/advanced_module_search.png "Search my items")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/advanced_module_search.png "Buscar mis elementos")
 
 Las búsquedas avanzadas pueden tener varios campos y criterios específicos. Por esta razon, puedes guardar tus criterios de búsqueda avanzada para reutilizarlos rápidamente en el futuro.
 
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/save_advanced_filter.png "Save my filter")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/save_advanced_filter.png "Guardar filtro")
 
 Para cargar una búsqueda guardada, puedes seleccionarla desde el desplegable "Mis Filtros". Esto retornará los resultados que coincidan con los criterios especificados en la búsqueda guardada.
 
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/load_advanced_filter.png "Load my filter")
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/load_advanced_filter.png "Cargar filtro")
 
 Nota: el Administrador del Sistema puede modificar utilizando Studio qué campos se habilitarán para la Búsqueda Avanzada.
+
+## Views
+
+Dentro del CRM se te presentarán varias vistas. Las mismas están estructuradas para presentarte información clave a través del proceso de gestión de registros. Existen tres vistas principales:
+
+    Vista de Lista
+    Vista de Detalle
+    Vista de Edición
+
+Todas estas tienen propósitos específicos que son descriptos en las subsiguientes secciones.
+
+### Vista de Lista
+
+Esta es la vista que se presenta cuando navegas a cualquier módulo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view.png "Vista de Lista")
+
+La Vista de Lista se encarga de varias acciones que puedes llevar a cabo para manipular registros. Estas son:
+
+    Buscar Registros – provee la posibilidad de realizar búsquedas básicas y avanzadas (ver sección sobre Búsqueda en este capítulo)
+    Ordenar Registros – cliquear en el nombre de una columna ordenará la lista de registros según esta columna en forma ascendente o descendente, si el ordenamiento está habilitado.
+	Ver Registros – cliquear en cualquier dato que posea un hiperenlace te llevará a la Vista de Detalle del registro.
+    Editar Registros – cliquear en el ícono del lápiz te llevará a la Vista de Edición del registro.
+    Eliminar Registros – puedes seleccionar registros y luego seleccionar la opción de Eliminar para eliminar registros del módulo.
+    Actualización Masiva de Registros – puedes seleccionar registros y luego seleccionar la opción de Actualización Masiva para actualizar información en todos los registros seleccionados.
+	Combinar Registros – puedes seleccionar registros y seleccionar la opción de combinarlos. Esto dará inicio a los procesos de combinado de registros. Puedes seleccionar un registro como primario y luego combinar la información de los registros duplicados en el registro primario. Una vez guardados los cambios, los registros duplicados serán eliminados y toda la información e historial de estos será combinado en el registro primario.
+
+### Vista de Detalle
+
+### Vista de Edición

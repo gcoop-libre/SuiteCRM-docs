@@ -415,7 +415,7 @@ La búsqueda retorna los resultados de forma sutilmente distinta a la búsqueda 
 
 ### Búsqueda Básica de Módulo
 
-La búsqeda básica está disponible en todos los modulos dentro del CRM. La búsuqeda básica, de forma estándar, permite a los usuarios buscar por los nombres de los registros.
+La búsqeda básica está disponible en todos los modulos dentro del CRM. La búsqueda básica, de forma estándar, permite a los usuarios buscar por los nombres de los registros.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/basic_module_search.png "Basic Module Search")
 

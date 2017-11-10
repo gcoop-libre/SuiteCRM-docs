@@ -508,3 +508,9 @@ La Vista Detalle tiene pestañas en SuiteCRM. Esto implica que se requiere un m�
 Nota: El Administrador del Sistema puede optar por mostrar la información en pestañas o paneles. Puedes contactar al Administrador del Sistema para mayor información sobre la gestión de las vistas y las disposiciones en las mismas.
 
 ### Vista de Edición
+
+Esta es la vista que se presenta cuando editas un registro.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_view.png "Vista de Edición")
+
+La Vista de Edición permite modificar la información del registro que se muestra en la vista. Esto permite a los usuarios actualizar los datos existentes, además de agregar o eliminar datos. Una vez realizada alguna modificación en la Vista de Edición, puedes cliquear en "Guardar" para aplicar los cambios o cliquear "Cancelar" para deshacerlos. Cliquear cualquiera de estas dos opciones te redireccionará a la Vista de Detalle del registro que estés editando. Puedes cliquear el botón de "Ver registro de cambios". Esto permite a los usuarios ver las modificaciones en campos auditados, las cuales pueden ser útiles de revisar antes de realizar nuevos cambios.

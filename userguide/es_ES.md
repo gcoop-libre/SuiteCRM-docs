@@ -41,8 +41,14 @@
 		1. [Vista de Lista](#vista-de-lista)
 		2. [Vista de Detalle](#vista-de-detalle)
 		3. [Vista de Edición](#vista-de-edición)
-
-
+	5. [Gestión de registros](#gestión-de-registros)
+	   1. [Creando registros](#creando-registros)
+	   2. [Editando registros](#editando-registros)
+	   3. [Eliminando registros](#eliminando-registros)
+	   4. [Actualizando registros masivamente](#actualizando-registros-masivamente)
+	   5. [Combinando registros](#combinando-registros)
+	   6. [Importando registros](#importando-registros)
+	   7. [Exportando registros](#exportando-registros)
 
 
 # ¿Qué contiene la Guia del usuario?
@@ -514,3 +520,23 @@ Esta es la vista que se presenta cuando editas un registro.
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_view.png "Vista de Edición")
 
 La Vista de Edición permite modificar la información del registro que se muestra en la vista. Esto permite a los usuarios actualizar los datos existentes, además de agregar o eliminar datos. Una vez realizada alguna modificación en la Vista de Edición, puedes cliquear en "Guardar" para aplicar los cambios o cliquear "Cancelar" para deshacerlos. Cliquear cualquiera de estas dos opciones te redireccionará a la Vista de Detalle del registro que estés editando. Puedes cliquear el botón de "Ver registro de cambios". Esto permite a los usuarios ver las modificaciones en campos auditados, las cuales pueden ser útiles de revisar antes de realizar nuevos cambios.
+
+## Gestión de Registros
+
+Hemos cubierto las distintas vistas que se presentan por lo que pasaremos a describir la gestión de registros. En esta sección cubriremos todas lás areas de la gestión de registros para que puedas almacenar y manipular eficientemente la información de clientes.
+
+### Creando Registros
+
+Puedes crear registros dentro de los módulos desde varias áreas distintas de la Interfaz. Debajo se detallan las mismas en capturas de pantalla.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_point_1.png "Crear nuevo registro")
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_point_2.png "Crear nuevo registro")
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_point_3.png "Crear nuevo registro")
+
+Una vez cliqueado el botón de Crear, te llevará a la pantalla de creación. Esta es esencialmente la Vista de Edición descripta anteriormente. La misma te permite completar con datos el nuevo registro. Los campos con el asterisco rojo son campos requeridos. La validación es efectuada para que el registro no pueda ser guardado a menos que los campos requeridos posean datos válidos.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_record.png "Creando un registro")
+
+Cuando ya hayas completado los datos del nuevo registro, puedes guardar el mismo lo cual creará el registro dentro del módulo en el CRM. Una vez guardado, serás redireccionado a la Vista de Detalle del registro creado.

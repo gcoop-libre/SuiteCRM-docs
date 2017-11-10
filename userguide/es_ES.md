@@ -527,7 +527,7 @@ Hemos cubierto las distintas vistas que se presentan por lo que pasaremos a desc
 
 ### Creando Registros
 
-Puedes crear registros dentro de los módulos desde varias áreas distintas de la Interfaz. Debajo se detallan las mismas en capturas de pantalla.
+Puedes crear registros dentro de los módulos desde distintas áreas de la Interfaz. Debajo se detallan las mismas en capturas de pantalla.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_point_1.png "Crear nuevo registro")
 
@@ -540,3 +540,79 @@ Una vez cliqueado el botón de Crear, te llevará a la pantalla de creación. Es
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/create_record.png "Creando un registro")
 
 Cuando ya hayas completado los datos del nuevo registro, puedes guardar el mismo lo cual creará el registro dentro del módulo en el CRM. Una vez guardado, serás redireccionado a la Vista de Detalle del registro creado.
+
+### Editando Registros
+
+Puedes editar registros dentro de los módulos desde distintas áreas de la Interfaz. Debajo se detallan las mismas en capturas de pantalla.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_record.png "Editar un registro")
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/edit_record_2.png "Editar un registro")
+
+Una vez cliqueado el botón de editar (o el lápiz), te llevará a la Vista de Edición. Esto permite la edición o completado de datos para ese registro. Los campos con el asterisco rojo son campos requeridos. La validación es efectuada para que el registro no pueda ser guardado a menos que los campos requeridos posean datos válidos.
+
+Cuando ya hayas editado o completado los datos del registro, puedes guardar el mismo lo cual actualizará el registro con la nueva información ingresada al editar. Una vez guardado, serás redireccionado a la Vista de Detalle del registro editado
+
+### Eliminando Registros
+
+Puedes eliminar registros dentro de los módulos tanto desde la Vista de Lista como la Vista de Detalle. Debajo se detallan ambas en capturas de pantalla.
+
+#### Método de eliminación de la Vista de Detalle
+
+La eliminación de registros desde la Vista Detalle es un proceso simple. Solamente necesitas cliquear el botón "Eliminar".
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/delete_detail_view.png "Eliminar un registro desde la Vista Detalle")
+
+Cuando cliquees el botón "Eliminar" en un registro, se te solicitará confirmación para la eliminación en una ventana emergente.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/confirm_delete_detail_view.png "Confirmar eliminación de registro")
+
+Cliquear la opción "Cancelar" te llevará otra vez a la Vista de Detalle del registro y no lo eliminará. Cliquear la opción "OK" activará la eliminación del registro. Si eliges eliminar el registro, el mismo será borrado y se te redirigirá a la Vista de Lista del módulo.
+
+#### Método de eliminación de la Vista de Lista
+
+Para eliminar registros desde la Vista de Lista, puedes seleccionar registros utilizando el checkbox que se encuentra del lado izquierdo de cada registro. Es posible seleccionar de a un solo registro o utilizar las opciones de "Seleccionar esta página" o "Seleccionar Todo", para seleccionar todos los registros de la página o del módulo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/delete_list_view.png "Eliminar un registro desde la Vista de Lista")
+
+Una vez que los registros se encuentren seleccionados, puedes cliquear en el botón "Eliminar". Cuando cliquees el botón "Eliminar", se te solicitará confirmación para la eliminación en una ventana emergente, en la cual se indicará la cantidad de registros que se eliminarán.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/confirm_delete_list_view.png "Confirmar eliminación de registro")
+
+#### Actualización masiva de registros.
+
+Puedes actualizar registros masivamente desde la Vista de Lista de cualquier módulo. Para actualizar registros masivamente, selecciona los mismos en la Vista de Lista utilizando los casilleros de selección y luego selecciona la opción "Actualización Masiva" desde el menú desplegable (al lado del botón de "Eliminar").
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/option_mass_update.png "Actualización masiva")
+
+Cliquear la opción de actualización masiva mostrará una pantalla debajo de la Vista de Lista. Allí se listarán todos los campos que pueden ser actualizados masivamente.
+
+53Mass update.png
+
+Una vez completados los campos que deseas actualizar masivamente, puedes cliquear la opción "Actualizar" o bien "Cancelar". Cancelar la actualización masiva descartará los cambios y te redireccionará a la Vista de Lista del módulo.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/mass_update_section.png "Sección de actualización masiva")
+
+#### Combinando Registros
+
+Puedes combinar registros desde la Vista de Lista de cualquier módulo, o bien desde la Vista de Detalle mediante el proceso de "Encontrar Duplicados".
+
+Para combinar registros, debes marcar los registros en la Vista de Lista y luego seleccionar la opción "Combinar" desde el menú desplegable (junto al botón de eliminar).
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/option_merge.png "Combinar")
+
+Una vez cliqueada la opción "Combinar", se presentará la pantalla de combinado. Esta mostrará el registro primario y los duplicados disponibles para ser combinados con este.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/merge_view.png "Vista de combinado")
+
+Puedes seleccionar cuál registro usar como primario utilizando el botón "Establecer como principal" a la derecha de la vista de combinado. Puedes mover datos desde los registros duplicados hacia el registro primario utilizando los botones "<<". En este ejemplo, hemos movido el Nombre y el Apellido del registro duplicado al registro primario.
+
+Una vez realizados los cambios en la vista de combinado, puedes cliquear en "Guardar Combinación" o "Cancelar". Cliquear cancelar descartará los cambios en el combinado y te redirigirá a la Vist de Lista de ese módulo. Cliquear "Guardar Combinación" dara continuación al proceso de combinado en el cual se te solicitará confirmación para borrar los registros duplicados.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/merge_prompt.png "Confirmar combinado")
+
+Puedes cliquear "Ok" o "Cancelar". Cliquear Cancelar descartará los cambios del combinado y te llevará a la Vista de Lista del módulo. Cliquear "OK" guardará la combinación y te llevará a la Vista de Detalle del registro recién combinado.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/merge_done.png "Combinación exitosa")
+
+Como se puede ver en el ejemplo, la combinación se completó exitosamente. El Nombre y el Apellido fueron actualizados, mientras que el resto de los datos fueron conservados.

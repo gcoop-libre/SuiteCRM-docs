@@ -587,11 +587,9 @@ Puedes actualizar registros masivamente desde la Vista de Lista de cualquier mó
 
 Cliquear la opción de actualización masiva mostrará una pantalla debajo de la Vista de Lista. Allí se listarán todos los campos que pueden ser actualizados masivamente.
 
-53Mass update.png
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/mass_update_section.png "Sección de actualización masiva")
 
 Una vez completados los campos que deseas actualizar masivamente, puedes cliquear la opción "Actualizar" o bien "Cancelar". Cancelar la actualización masiva descartará los cambios y te redireccionará a la Vista de Lista del módulo.
-
-![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/mass_update_section.png "Sección de actualización masiva")
 
 #### Combinando Registros
 

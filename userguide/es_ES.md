@@ -487,4 +487,24 @@ La Vista de Lista se encarga de varias acciones que puedes llevar a cabo para ma
 
 ### Vista de Detalle
 
+Esta es la vista que se presenta cuando ves un registro.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/detail_view.png "Vista de Detalle")
+
+La Vista de Detalle se encarga de varias acciones que puedes utilizar para ver y gestionar datos. Estas son específicas de la Vista de Detalle del módulo que estás viendo. Hay acciones estándard en la Vista de Detalle para la mayoría de los módulos. Estas son:
+
+* Editar – permite editar el registro que estás viendo.
+* Duplicar – permite duplicar el registro que estás viendo.
+* Delete – permite eliminar el registro que estás viendo. Si un registro es eliminado, se te redigirá a la Vista de Lista.
+* Encontrar Duplicados – permite comenzar el proces de búsqueda de duplicados.
+* Historial de modificaciones – permite visualizar las modificaciones realizadas en campos auditados.
+
+Nota: para configurar campos como auditados para cualquier modificación para encontrar duplicados, contacta al Administrador del Sistema.
+
+Los campos con hipervínculos pueden ser cliqueados. Esto te llevará al detalle de ese registro.
+
+La Vista Detalle tiene pestañas en SuiteCRM. Esto implica que se requiere un mínimo scrolling y la información se clasifica para cada módulo en la pestaña correspondiente.
+
+Nota: El Administrador del Sistema puede optar por mostrar la información en pestañas o paneles. Puedes contactar al Administrador del Sistema para mayor información sobre la gestión de las vistas y las disposiciones en las mismas.
+
 ### Vista de Edición

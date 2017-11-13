@@ -614,3 +614,72 @@ Puedes cliquear "Ok" o "Cancelar". Cliquear Cancelar descartará los cambios del
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/merge_done.png "Combinación exitosa")
 
 Como se puede ver en el ejemplo, la combinación se completó exitosamente. El Nombre y el Apellido fueron actualizados, mientras que el resto de los datos fueron conservados.
+
+#### Importando Registros
+
+Es posible importar datos fácilmente utilizando el Asistente de Importación para Usuarios de SuiteCRM. Verás varios consejos y recomendaciones mientras realizas el proceso a través del Asistente de Importación, acerca de los requisitos para la importación y pasos posteriores.
+
+##### User Import Wizard features
+
+El Asistente de Importación tiene varias características que te facilitan el mapeo de datos hacia campos en el CRM y también para futuras importaciones. Estas son:
+
+* Archivos .csv de ejemplo para una importación más fácil. — Usa los archivos .csv de ejemplo disponibles como una plantilla para la importación de archivos.
+* Reutiliza las configuraciones de importaciones anteriores — Guarda las propiedades de los archivos de importado, mapeos, indices de chequeo para duplicados de importaciones realizadas para facilitar los procesos de importado posteriores.
+* Posibilidad de aceptar tanto el nombre de la base de datos como el de las etiquetas de campos desplegables y de selección múltiple — Las etiquetas de campos y los nombres de las bases de datos se aceptan y asignan durante la importación, pero solo se muestran las etiquetas de campo para facilitar su uso.
+* Posibilidad de aceptar nombres de usuario y nombres completos en campos de usuario durante la importación y exportación de datos — Nombres completos de Usuarios mostrados en los campos de "Asignado a" y otros campos relacionados con el Usuario en el archivo .csv exportado para una identificación más fácil de los registros de usuario.
+* Auto-detección de propiedades del archivo para la importación — Carga tu archivo de importación sin la necesidad de especificar propieaddes del archivo como tabs, comas, comillas simples o dobles, formatos de fecha y hora, haciendo el proceso más simple y rápido.
+* Posibilidad de importar contactos desde fuentes externas como por ejemplo Google — Posibilidad de importar contactos desde Google Contacts para módulos afines tales como Contactos, Clientes Potenciales, Objetivos. Relaciona registros de SuiteCRM a contactos en Google Contacts, y comunicate con Google Contacts a través de SuiteCRM.
+
+##### Pasos para importar datos
+
+Nota: Siempre importa primero los datos de Cuentas y luego los de Contacto y demás datos relacionados a Cuentas (como por ejemplo Reuniones, Llamadas, Notas) para automáticamente crear una relación entre la Cuenta importada, los Contactos y los registros de actividades relacionados a la Cuenta.
+
+Sigue los pasos listados debajo para importar datos en ún módulo, como por ejemplo Cuentas:
+
+1. Selecciona Importar desde la lista desplegable de acciones del menú de opciones del módulo.
+2. Esto mostrará el Paso 1 del proceso de importado on un enlace a la Plantilla del Archivo de Importación de ejemplo.
+3. Sube tu archivo de importación a esta página usando el botón Examinar en eñ campo Seleccionar Archivo.
+4. Opcionalmente, puedes descargar la plantilla disponible, borrar los datos existentes, e ingresar tus datos para luego subir el archivo a está página mediante el botón Examinar.
+5. Cliquea en Siguiente.
+6. Esto mostrará el Paso 2 (Confirmar las propiedades del archivo de importación).
+7. En este momento ocurre la auto-detección de los datos a importar.
+8. Cliquea Ver Propiedades del Archivo de Importado para verificar y modificar los datos según sea necesario, en caso de notar irregularidades en la tabla de Confirmación de las Propiedades del Archivo de Importación.
+9. Cliquea en el botón de Ocultar Propiedades del Archivo de Importación para colapsar el panel.
+10. Cliquea en Siguiente.
+11. Esto mostrará el Paso 3: Confirmar el Mapeo de Campos.
+12. La tabla en esta página msotrará todos los campos en el módulo que pueden ser mapeados a los datos en el archivo de importación. Si el archivo contiene una fila de encabezado, las columnas en el archivo se mapean a los campos coincidentes.
+13. Chequea si el mapeo es correcto y haz las modificaciones necesarias.
+14. Mapea todos los campos que figuren como requeridos (indicados por un asterisco).
+15. Cliquea en Siguiente.
+16. Esto mosrtará el Paso 4: Chequeo de Posibles Duplicados.
+17. Sigue las instrucciones de esta página.
+18. El Paso 4 también ofrece la opción de guardar las propiedades del archivo de importación actual, mapeos de campos, e índices de chequeo de duplicados para importaciones futuras.
+19. (Opcional) Guarda las configuraciones de la importación.
+20. Cliquea Importar Ahora.
+21. Cliquea sobre la pestaña Errores para chequear por errores en el procesamiento. Sigue las instrucciones para solucionar problemas (en caso de que existan) y cliquea Importar Otra Vez.
+22. Esto mostrará el Paso 1 del proceso de importado.
+23. Sigue los pasos en el Asistente hasta el Paso 5.
+24. Si la importación fue exitosa, puedes ver los registros importados en el Paso 5.
+25. Cliquea Deshacer Importación si no estás satisfecho con los registros importados.
+26. O bien, cliquea Importar Otra Vez para importar más datos.
+27. O bien, cliquea Salir para navegar a la Vista de Lista del módulo en el cual has importado los registros.
+
+#### Exportando Registros
+
+Puedes exportar registros de SuiteCRM en formato .csv. Cuando exportes registros desde el CRM, se te proveerá el archivo .csv para descargar cuando la exportación haya terminado de ejecutarse. Puedes guardar y abrir este archivo en aplicaciones tales como Libre Office Calc o Microsoft Office Excel.
+
+El archivo .csv muestra la información en un formato tabulado con columnas y filas. Cuando los datos son exportados desde el CRM, el ID de registro es incluído junto con los otros campos que son especificados en la lista de exportación para ese módulo. Puedes entonces utilizar el ID de registro como una referencia para efectuar una importación del estilo "Crear nuevos registros y actualizar registros existentes", según se detalla en la sección Importando Registros de la guía del usuario.
+
+Nota: cuando se exportan valor de listas desplegables, SuiteCRM exporta el ID asociado a cada opción y no la etiqueta que se muestra en la misma. Por ejemplo, si un desplegable tiene opciones llamadas Alto, Medio y Bajo con ID 1, 2 y 3 respectivamente, el .csv solo mostrará las opciones con los ID 1, 2 o 3 según corresponda.
+
+##### Pasos para exportar registros.
+
+1. Selecciona los registros desde la Vista de Lista en la página de inicio del módulo.
+2. Selecciona Exportar desde el menú de acciones desplegable en la Vista de Lista.
+3. Para exportar todos los registros listados en la página, cliquea el enlace Seleccionar localizado sobre la lista de ítems y selecciona alguna de las opciones siguientes.
+* Esta página. Para exportar todos los registros listados en la página, selecciona esta opción.
+* Todos los registros. Para exportar todos los registros en la lista (inclusive si esta tiene más de una página de largo), selecciona esta opción.
+7. Esto muestra una ventana de diálogo de Abriendo .csv.
+8. Selecciona Abrir para abrir el archivo de exportado en formato .csv o selecciona Guardar en Disco para guardar el archivo .csv en tu computadora local.
+9. Cliquea OK para ejecutar la operación. Si eliges abrir el archivo, el mismo se abrirá en el programa predeterminado por el sistema operativo para los archivos con extensión .csv.
+10. El archivo contiene todos los campos del módulo del cual se están exportando los datos.

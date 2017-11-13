@@ -619,7 +619,7 @@ Como se puede ver en el ejemplo, la combinación se completó exitosamente. El N
 
 Es posible importar datos fácilmente utilizando el Asistente de Importación para Usuarios de SuiteCRM. Verás varios consejos y recomendaciones mientras realizas el proceso a través del Asistente de Importación, acerca de los requisitos para la importación y pasos posteriores.
 
-##### User Import Wizard features
+##### Características del Asistente de Importación de Usuario
 
 El Asistente de Importación tiene varias características que te facilitan el mapeo de datos hacia campos en el CRM y también para futuras importaciones. Estas son:
 
@@ -677,8 +677,8 @@ Nota: cuando se exportan valor de listas desplegables, SuiteCRM exporta el ID as
 1. Selecciona los registros desde la Vista de Lista en la página de inicio del módulo.
 2. Selecciona Exportar desde el menú de acciones desplegable en la Vista de Lista.
 3. Para exportar todos los registros listados en la página, cliquea el enlace Seleccionar localizado sobre la lista de ítems y selecciona alguna de las opciones siguientes.
-* Esta página. Para exportar todos los registros listados en la página, selecciona esta opción.
-* Todos los registros. Para exportar todos los registros en la lista (inclusive si esta tiene más de una página de largo), selecciona esta opción.
+	* Esta página. Para exportar todos los registros listados en la página, selecciona esta opción.
+	* Todos los registros. Para exportar todos los registros en la lista (inclusive si esta tiene más de una página de largo), selecciona esta opción.
 7. Esto muestra una ventana de diálogo de Abriendo .csv.
 8. Selecciona Abrir para abrir el archivo de exportado en formato .csv o selecciona Guardar en Disco para guardar el archivo .csv en tu computadora local.
 9. Cliquea OK para ejecutar la operación. Si eliges abrir el archivo, el mismo se abrirá en el programa predeterminado por el sistema operativo para los archivos con extensión .csv.

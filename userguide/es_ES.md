@@ -683,3 +683,29 @@ Nota: cuando se exportan valor de listas desplegables, SuiteCRM exporta el ID as
 8. Selecciona Abrir para abrir el archivo de exportado en formato .csv o selecciona Guardar en Disco para guardar el archivo .csv en tu computadora local.
 9. Cliquea OK para ejecutar la operación. Si eliges abrir el archivo, el mismo se abrirá en el programa predeterminado por el sistema operativo para los archivos con extensión .csv.
 10. El archivo contiene todos los campos del módulo del cual se están exportando los datos.
+
+
+#### Edición en línea
+
+La edición en línea brinda la posiblidad de cambiar valores "al vuelo". La edición en línea ha sido implementada tanto en la Vista de Lista como la Vista de Detalle, ofreciendo una ventaja a los usuarios que desean modificar los valores de los campos rápidamente, reduciendo la cantidad de clicks y procesos que normalmente llevaría editar el registro completo.
+
+Nota: La Edición en Línea puede ser habilitada y deshabilitada para las Vistas de Lista y Detalle. Esto puede ser configurado en la sección principal de Ajustes del Sistema del CRM, por el Administrador del Sistema.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/in_line_editing.png "Edición en línea")
+
+### List View In-line Editing
+
+Puedes editar la información de los registros en la Vista de Lista de un módulo haciendo click en un campo donde se muestra el ícono del lápiz.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view_in_line_editing_1.png "Edición en línea en la Vista de Lista")
+
+Puedes cliquear en el ícono del lápiz o bien hacer doble click en el campo para editar el valor.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view_in_line_editing_2.png "Edición en línea en la Vista de Lista")
+list_view_in_line_editing_1.png
+
+Una vez realizados los cambios deseados en el valor del campo, puedes presionar la tecla Enter o bien cliquear en el tilde para guardar los cambios. Si navegas fuera del campo sin guardar los cambios, verás un mensaje de alerta notificandote que hay cambios sin guardar en el campo que está siendo editado.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view_in_line_editing_3.png "Edición en línea en la Vista de Lista")
+
+Puedes cliquear cancelar y continuar editando y guardando tus cambios, o bien puedes cliquear en Aceptar lo cual descartará las modificaciones realizadas.

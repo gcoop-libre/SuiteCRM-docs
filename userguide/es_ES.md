@@ -49,6 +49,10 @@
 	   5. [Combinando registros](#combinando-registros)
 	   6. [Importando registros](#importando-registros)
 	   7. [Exportando registros](#exportando-registros)
+    6. [Edición en línea](#edición-en-línea)
+	   1. [Edición en línea en la Vista de Lista](#edición-en-línea-en-la-vista-de-lista)
+       2. [Edición en línea en la Vista de Detalle](#edición-en-línea-en-la-vista-de-detalle)
+
 
 
 # ¿Qué contiene la Guia del usuario?
@@ -693,7 +697,7 @@ Nota: La Edición en Línea puede ser habilitada y deshabilitada para las Vistas
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/in_line_editing.png "Edición en línea")
 
-### List View In-line Editing
+### Edición en línea en la Vista de Lista
 
 Puedes editar la información de los registros en la Vista de Lista de un módulo haciendo click en un campo donde se muestra el ícono del lápiz.
 
@@ -702,7 +706,6 @@ Puedes editar la información de los registros en la Vista de Lista de un módul
 Puedes cliquear en el ícono del lápiz o bien hacer doble click en el campo para editar el valor.
 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view_in_line_editing_2.png "Edición en línea en la Vista de Lista")
-list_view_in_line_editing_1.png
 
 Una vez realizados los cambios deseados en el valor del campo, puedes presionar la tecla Enter o bien cliquear en el tilde para guardar los cambios. Si navegas fuera del campo sin guardar los cambios, verás un mensaje de alerta notificandote que hay cambios sin guardar en el campo que está siendo editado.
 

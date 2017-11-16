@@ -729,3 +729,34 @@ Una vez realizados los cambios deseados en el valor del campo, puedes presionar 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/detail_view_in_line_editing_3.png "Edición en línea en la Vista de Detalle")
 
 Puedes cliquear cancelar y continuar editando y guardando tus cambios, o bien puedes cliquear en Aceptar lo cual descartará las modificaciones realizadas.
+
+## Notificaciones de Escritorio
+
+### Habilitando las Notificaciones de Escritorio
+
+Puedes habilitar las notificaciones de escritorio desde la pestaña "Avanzado" de las preferencias de usuario. Esto habilitará las notificaciones de escritorio solo para ese navegador en la computadora que estés utilizando. Puedes optar por habilitar las notificaciones de escritorio solo para esa sesión del navegador o habilitarlas siempre.
+
+Nota: Los usuarios deberán habilitar las notificaciones de escritorio en todos los navegadores y computadoras si utilizan más de uno/a.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/desktop_notifications.png "Habilitar Notificaciones de Escritorio")
+
+Una vez habilitadas las notificaciones de escritorio, los usuarios recibirán notificaciones para todos los eventos de su calendario tales como:
+
+* Reuniones – Reuniones a las que has sido invitado que tengan configurados recordatorios emergentes.
+* Llamadas – Llamadas a las que has sido invitado que tengan configurados recordatorios emergentes.
+
+### Administrando las Notificaciones de Escritorio
+
+Si no tienes ninguna notificación, el contador de notificaciones mostrará un cero ('0') para indicarte que actualmente no hay notificaciones nuevas.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/desktop_notifications_icon.png "Administrar Notificaciones de Escritorio")
+
+Si no cliqueas sobre una notificación de escritorio cuando esta se muestra en el navegador, por ejemplo si te encuentras lejos del teclado, tus notificaciones serán agregadas a la lista de notificaciones que se muestra como un contador en la barra principal de navegación.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/desktop_notifications_icon_enabled.png "Administrar Notificaciones de Escritorio")
+
+Puedes administrar tus notificaciones de escritorio haciendo click en el ícono, el cual mostrará las notificaciones existentes.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/desktop_notifications_icon_dropdown.png "Administrar Notificaciones de Escritorio")
+
+Puedes hacer click sobre la notificacion la cual te llevará al registro relacionado a la misma, o bien puedes hacer click sobre el ícono con la 'X' pequeña para limpiar la notificación de inmediato.

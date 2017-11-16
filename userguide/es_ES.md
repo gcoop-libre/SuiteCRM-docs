@@ -55,7 +55,7 @@
 	7. [Notificaciones de Escritorio](#notificaciones-de-escritorio)
 	   1. [Habilitando las Notificaciones de Escritorio](#habilitando-las-notificaciones-de-escritorio)
        2. [Administrando las Notificaciones de Escritorio](#administrando-las-notificaciones-de-escritorio)
-	8. [Resumen](#resumen)
+	8. [Resumen](#resumen-3)
 
 
 # ¿Qué contiene la Guia del usuario?

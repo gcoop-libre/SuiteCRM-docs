@@ -712,3 +712,20 @@ Una vez realizados los cambios deseados en el valor del campo, puedes presionar 
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/list_view_in_line_editing_3.png "Edición en línea en la Vista de Lista")
 
 Puedes cliquear cancelar y continuar editando y guardando tus cambios, o bien puedes cliquear en Aceptar lo cual descartará las modificaciones realizadas.
+
+
+### Edición en línea en la Vista de Detalle
+
+De forma similar a la Vista de Lista, puedes editar la información de un registro en la Vista de Detalle utilizando la edición en línea haciendo click en los campos donde se muestre el ícono del lápiz.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/detail_view_in_line_editing_1.png "Edición en línea en la Vista de Detalle")
+
+Puedes cliquear en el ícono del lápiz o bien hacer doble click en el campo para editar el valor.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/detail_view_in_line_editing_2.png "Edición en línea en la Vista de Detalle")
+
+Una vez realizados los cambios deseados en el valor del campo, puedes presionar la tecla Enter o bien cliquear en el tilde para guardar los cambios. Si navegas fuera del campo sin guardar los cambios, verás un mensaje de alerta notificandote que hay cambios sin guardar en el campo que está siendo editado.
+
+![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/detail_view_in_line_editing_3.png "Edición en línea en la Vista de Detalle")
+
+Puedes cliquear cancelar y continuar editando y guardando tus cambios, o bien puedes cliquear en Aceptar lo cual descartará las modificaciones realizadas.

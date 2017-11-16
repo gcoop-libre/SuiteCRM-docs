@@ -52,7 +52,10 @@
     6. [Edición en línea](#edición-en-línea)
 	   1. [Edición en línea en la Vista de Lista](#edición-en-línea-en-la-vista-de-lista)
        2. [Edición en línea en la Vista de Detalle](#edición-en-línea-en-la-vista-de-detalle)
-
+	7. [Notificaciones de Escritorio](#notificaciones-de-escritorio)
+	   1. [Habilitando las Notificaciones de Escritorio](#habilitando-las-notificaciones-de-escritorio)
+       2. [Administrando las Notificaciones de Escritorio](#administrando-las-notificaciones-de-escritorio)
+	8. [Resumen](#resumen)
 
 
 # ¿Qué contiene la Guia del usuario?
@@ -760,3 +763,9 @@ Puedes administrar tus notificaciones de escritorio haciendo click en el ícono,
 ![alt text](https://github.com/gcoop-libre/SuiteCRM-docs/blob/master/images/desktop_notifications_icon_dropdown.png "Administrar Notificaciones de Escritorio")
 
 Puedes hacer click sobre la notificacion la cual te llevará al registro relacionado a la misma, o bien puedes hacer click sobre el ícono con la 'X' pequeña para limpiar la notificación de inmediato.
+
+## Resumen
+
+En este capítulo, hemos cubierto todos los elementos de la interfaz de usuario de SuiteCRM. Existen diversos elementos que puedes utilizar para optimizar tu navegación y manejo de datos, e incrementar tu productividad.
+
+En el siguiente capítulo, le daremos un vistazo a los módulos. Los módulos son entidades de datos dentro de SuiteCRM los cuales pueden trabajar en forma independiente, o bien estar relacionados a otros módulos. Cada módulo tiene una función diferente pero muchos módulos trabajan en conjunto para estructurar y automatizar los procesos del negocio del día a día.

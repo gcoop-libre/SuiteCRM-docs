@@ -769,3 +769,60 @@ Puedes hacer click sobre la notificacion la cual te llevará al registro relacio
 En este capítulo, hemos cubierto todos los elementos de la interfaz de usuario de SuiteCRM. Existen diversos elementos que puedes utilizar para optimizar tu navegación y manejo de datos, e incrementar tu productividad.
 
 En el siguiente capítulo, le daremos un vistazo a los módulos. Los módulos son entidades de datos dentro de SuiteCRM los cuales pueden trabajar en forma independiente, o bien estar relacionados a otros módulos. Cada módulo tiene una función diferente pero muchos módulos trabajan en conjunto para estructurar y automatizar los procesos del negocio del día a día.
+
+
+# Módulos Centrales
+
+## Cuentas
+
+El módulo de Cuentas es la base central desde la cual puedes crear una asociación con la mayoría de los registros en SuiteCRM. Es posible crear realaciones con Contactos; Clientes Potenciales Convertidos, Oportunidades, y Actividades tales como Emails o Reuniones y Casos. Las Cuentas en SuiteCRM tipicamente contienen toda la información específica de una companía con la que tu organización tiene relación. En términos del mundo real una Cuenta probablemente sea una entidad de negocio que califica como Prospecto de Venta, Cliente, Proveedor o Revendedor y puede ser utilizado para mantener un seguimiento de todas las interacciones que tienen lugar entre estas entidades y tu organización.
+
+### Acciones de Cuentas
+
+Puedes acceder a las acciones de las cuentas desde el menú desplegable del módulo de Cuentas o a través de la Barra Lateral. Las acciones de Cuentas son las siguientes:
+
+* Crear Cuenta – Una vez cliqueada, un nuevo formulario se abre en la Vista de Edición para permitirte crear un nuevo registro de Cuenta.
+* Ver Cuentas – Una vez cliqueada, serás redireccionado a la Vista de Lista del módulo de Cuentas. Esto te permite buscar y listar registros de Cuentas.
+* Importar Cuentas – Te redirige al Asistente de Importación para el módulo de Cuentas. Para más información, ve a la sección de Importando Registros.
+
+Para ver la lista completa de campos disponibles al crear una Cuenta, ve a la sección de Lista de Campos de Cuentas.
+
+### Administrando Cuentas
+
+* Para ordenar registros en la Vista de Lista de Cuentas, cliquea sobre el título de cualquier columna que sea ordenable. Esto ordenará los registros según los valores de ese campo en orden ascendente o descendente.
+* Para buscar una Cuenta, ver la sección de Búsqueda de la Guía de Usuario.
+* Para actualizar algunas o todas las cuentas en la Vista de Lista, usa el panel de Actualización Masiva según se describe en la sección de Actualización Masiva de Registros de la Guía de Usuario.
+* Para duplicar una Cuenta, puedes cliquear el botón Duplicar en la Vista de Detalle y luego guardar el registro duplicado.
+* Para combinar Cuentas duplicadas, selecciona los registros desde la Vista de Lista de Cuentas, cliquea en el enlace de Combinar en el menú desplegable de Acciones para comenzar el proceso de combinado. Para más información sobre combinar duplicados, ver la sección de Combinado de Registros de la Guía de Usuario.
+* Para eliminar una o multiples Cuentas, puedes seleccionar múltiples registros desde la Vista de Lista y cliquear Eliminar. También puedes eliminar una Cuenta desde la Vista de Detalle utilizando el botón Eliminar de la misma. Para mayor información sobre el eliminado de registros, ver la sección Eliminando Registros de la Guía de Usuario.
+* Para ver los detalles de una Cuenta, cliquea sobre el Nombre de la Cuenta en la Vista de Lista. Esto abrirá la Vista de Detalle del registro.
+* Para editar los detalles de una Cuenta, cliquea en el botón Editar en la Vista de Lista o en la Vista de Detalle, haz los cambios necesarios, y cliquea en Guardar.
+* Para una guía detallada sobre la importación y exportación de Cuentas, ver la sección Importando Registros y Exportando Registros de la Guía de Usuario.
+* Para mantener un seguimiento de los cambios realizados sobre campos auditados en el registro de una Cuenta, puedes cliquear el botón Ver Historial de Cambios en la Vista de Detalle o de Edición de la Cuenta.
+
+## Contactos
+
+En SuiteCRM un Contacto es un individuo que está típicamente asociado con una Cuenta (organización) u Oportunidad (prospecto calificado). Por ejemplo si Techco es la Cuenta, entonces Juan Perez, Gerente de Ventas de Techco es un Contacto. Este módulo contiene toda la información relacionada a estos individuos y además provee una perspectiva para cualquier movimiento relacionada al registro de un Contacto, por ejemplo si estuvo involucrado en una Reunión, inició un Caso o envió un Email.
+
+### Acciones de Contactos
+
+You can access the Contacts actions from the Contacts module menu drop down or via the Sidebar. The Contacts actions are as follows:
+
+* Crear Contacto – Una vez cliqueada, un nuevo formulario se abre en la Vista de Edición para permitirte crear un nuevo registro de Contacto.
+* Ver Contactos – Una vez cliqueada, serás redireccionado a la Vista de Lista del módulo de Contactos. Esto te permite buscar y listar registros de Contactos.
+* Importar Contactos – Te redirige al Asistente de Importación para el módulo de Contactos. Para más información, ve a la sección de Importando Registros.
+
+Para ver la lista completa de campos disponibles al crear una Contacto, ve a la sección de Lista de Campos de Contactos.
+
+### Administrando Contactos
+
+* Para ordenar registros en la Vista de Lista de Contactos, cliquea sobre el título de cualquier columna que sea ordenable. Esto ordenará los registros según los valores de ese campo en orden ascendente o descendente.
+* Para buscar una Contacto, ver la sección de Búsqueda de la Guía de Usuario.
+* Para actualizar algunas o todas las cuentas en la Vista de Lista, usa el panel de Actualización Masiva según se describe en la sección de Actualización Masiva de Registros de la Guía de Usuario.
+* Para duplicar una Contacto, puedes cliquear el botón Duplicar en la Vista de Detalle y luego guardar el registro duplicado.
+* Para combinar Contactos duplicadas, selecciona los registros desde la Vista de Lista de Contactos, cliquea en el enlace de Combinar en el menú desplegable de Acciones para comenzar el proceso de combinado. Para más información sobre combinar duplicados, ver la sección de Combinado de Registros de la Guía de Usuario.
+* Para eliminar una o multiples Contactos, puedes seleccionar múltiples registros desde la Vista de Lista y cliquear Eliminar. También puedes eliminar una Contacto desde la Vista de Detalle utilizando el botón Eliminar de la misma. Para mayor información sobre el eliminado de registros, ver la sección Eliminando Registros de la Guía de Usuario.
+* Para ver los detalles de una Contacto, cliquea sobre el Nombre de la Contacto en la Vista de Lista. Esto abrirá la Vista de Detalle del registro.
+* Para editar los detalles de una Contacto, cliquea en el botón Editar en la Vista de Lista o en la Vista de Detalle, haz los cambios necesarios, y cliquea en Guardar.
+* Para una guía detallada sobre la importación y exportación de Contactos, ver la sección Importando Registros y Exportando Registros de la Guía de Usuario.
+* Para mantener un seguimiento de los cambios realizados sobre campos auditados en el registro de una Contacto, puedes cliquear el botón Ver Historial de Cambios en la Vista de Detalle o de Edición de la Contacto.
